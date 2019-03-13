@@ -12,7 +12,6 @@
 ![alt text](https://github.com/rizalagus26rpl/RecyclerView1/blob/master/RV1/RV1_10.PNG?raw=true)
 
 ![alt text](https://github.com/rizalagus26rpl/RecyclerView1/blob/master/RV1/RV1_11.PNG?raw=true)
-
 ![alt text](https://github.com/rizalagus26rpl/RecyclerView1/blob/master/RV1/RV1_12.PNG?raw=true)
 ![alt text](https://github.com/rizalagus26rpl/RecyclerView1/blob/master/RV1/RV1_13.PNG?raw=true)
 ![alt text](https://github.com/rizalagus26rpl/RecyclerView1/blob/master/RV1/RV1_14.PNG?raw=true)
